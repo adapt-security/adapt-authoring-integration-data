@@ -1,7 +1,7 @@
 {
   "name": "adapt-authoring-integration-data",
   "version": "1.0.0",
-  "description": "Custom data for Adapt authoring tool integration tests",
+  "description": "Data for Adapt authoring tool integration tests",
   "release": {
     "plugins": [
       ["@semantic-release/commit-analyzer", { "preset": "eslint" }],
